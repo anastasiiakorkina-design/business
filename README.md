@@ -4,6 +4,10 @@ A premium, production-ready fullstack entrepreneur coaching website built with N
 
 > **Design Philosophy:** Dark cinematic UI • Gold accents • Luxury minimal aesthetic • Conversion-focused architecture
 
+**Design System tokens:**
+- Background `#0D1015` · Gold `#D4AF37` · White `#F8F8F8` · Grey `#A8A8A8`
+- Headings: Montserrat Bold · Body: Inter · CTAs: Poppins SemiBold
+
 ---
 
 ## 🚀 Tech Stack
